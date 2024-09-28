@@ -50,8 +50,7 @@
 
 ## •	Contoh :
   (https://cdn.prod.websitefiles.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dcf__Vi_A239zpMDUwMDvR_VpVu-VSP2G9hMXaEMf--ylmOPSo4lgZkrxp4Hx0JePSLb-bKCQ-fD8Cnb5nUiGke_A03ZeI9PqF3Zds8t2LUIIFlsT7M3X6YDAC2FjxnC-AWCZMwCV5d.webp)
-  =>
-  https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3e0b_usttkFuFz3Z1OO2WTgsr5Mvc5rzbTeUFk9669K1qzqxNCEbuEP0LhNNlnj4CyXUsGjnybZHAyonoSf-9jEzb6LitKgIxGtuaTYkyed75NuamKoDU9sz1ijhKGzHwXpuRMc7p2NR2.webp
+  (https://cdn.prod.websitefiles.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3e0b_usttkFuFz3Z1OO2WTgsr5Mvc5rzbTeUFk9669K1qzqxNCEbuEP0LhNNlnj4CyXUsGjnybZHAyonoSf9jEzb6LitKgIxGtuaTYkyed75NuamKoDU9sz1ijhKGzHwXpuRMc7p2NR2.webp)
 -	Pada contoh pertama, gambar tersebut merupakan perbaikan atau contoh bentuk visualisasi data dalam bentuk diagram batang yang lebih akurat. Sebab pada contoh gambar tersebut, jumlah (sumbu-Y) nya dimulai dari angka 0. Sehingga tidak memberi kesan perbedaan (gap) yang terlalu signifikan, jika dibandingkan dengan contoh pada bagian sebelumnya.
 -	Pada contoh kedua, gambar tersebut merupakan bentuk yang lebih baik dari contoh sebelumnya. Sebab jika kita ingin memvisualisasikan data menggunakan diagram batang dengan banyak kategori, akan lebih baik jika membuatnya menjadi vertikal seperti pada gambar.
 

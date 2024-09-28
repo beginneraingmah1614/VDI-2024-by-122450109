@@ -1,9 +1,9 @@
 # TUGAS VISUALISASI DATA DAN INFORMASI PERTEMUAN 2
 # CONTOH VISUALISASI DATA YANG BAIK DAN BURUK
 
-Nama		: Sahid Maulana
-NIM		  : 122450109
-Kelas		: RA
+### Nama		: Sahid Maulana
+### NIM		  : 122450109
+### Kelas		: RA
 
 1.	Parameter Visualisasi Data yang Buruk
 •	Terlalu Banyak Warna atau Elemen Dekoratif
@@ -19,8 +19,8 @@ Kelas		: RA
 -	Terlalu ramai dengan elemen non-esensial.
 -	Distorsi informasi melalui visualisasi yang tidak tepat.
 •	Contoh :
-  https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dc0_NPxkksn79emS50R6vfRs9WUPXBRZ3t_Cbh7i6tCORYQ-uE-jnMyiv0omBTr86Ioe4ENM1H86DYxf7N5uu2vFFTxvZh1TgxSufmjdTG8m4lBBMFHVeHHm2grZ8TJp-hGO88JP0s7M.webp
-https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dd2_B0bgJV5rclHcVeo3O-sLC2_EWOexj16ZLHGXe6WfNjf3dJfG4b6C5eYRRjA-Bns_Z8KkQHkRDLbhBy9ghGLBTTC3QWONg5tVBCR6fcBCbI6V_dbZObsAXUumcpim3c2FT2yh1yVj.webp
+  (https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dc0_NPxkksn79emS50R6vfRs9WUPXBRZ3t_Cbh7i6tCORYQ-uE jnMyiv0omBTr86Ioe4ENM1H86DYxf7N5uu2vFFTxvZh1TgxSufmjdTG8m4lBBMFHVeHHm2grZ8TJp-hGO88JP0s7M.webp)
+(https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dd2_B0bgJV5rclHcVeo3O-sLC2_EWOexj16ZLHGXe6WfNjf3dJfG4b6C5eYRRjA-Bns_Z8KkQHkRDLbhBy9ghGLBTTC3QWONg5tVBCR6fcBCbI6V_dbZObsAXUumcpim3c2FT2yh1yVj.webp)
 -	Pada contoh pertama, menggunakan diagram batang yang terlalu banyak kategori di dalamnya. Hal ini mempersempit ruang baca, sehingga data tidak mudah untuk dilihat.
 -	Pada contoh kedua, diagram batang tersebut sekilas nampak tidak ada yang salah. Akan tetapi kurang tepat jika menggunakan diagram batang, tetapi sumbu-Y nya tidak dimulai dari 0. Hal ini berisiko menyebabkan misleading atau salah persepsi bagi pembaca. Karena sebetulnya, perbedaan kedua kategori tidaklah sejauh itu. Perbandingannya akan nampak pada contoh visualisasi data yang baik di bagian berikutnya.
 
@@ -37,7 +37,7 @@ Grafik memiliki judul yang menjelaskan tujuan dari visualisasi tersebut, sumbu-s
 - Minim gangguan visual.
 - Fokus pada tren, pola, atau perbandingan.
 •	Contoh :
-  https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dcf__Vi_A239zp8MDUwMDvR_VpVu-VSP2G9hMXaEMf--ylmOPSo4lgZkrxp4Hx0JePSLb-bKCQ-fD8Cnb5nUiGke_A03ZeI9PqF3Zds8t2LUIIFlsT7M3X6YDAC2FjxnC-AWCZMwCV5d.webp
+  (https://cdn.prod.websitefiles.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dcf__Vi_A239zpMDUwMDvR_VpVu-VSP2G9hMXaEMf--ylmOPSo4lgZkrxp4Hx0JePSLb-bKCQ-fD8Cnb5nUiGke_A03ZeI9PqF3Zds8t2LUIIFlsT7M3X6YDAC2FjxnC-AWCZMwCV5d.webp)
   https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3e0b_usttkFuFz3Z1OO2WTgsr5Mvc5rzbTeUFk9669K1qzqxNCEbuEP0LhNNlnj4CyXUsGjnybZHAyonoSf-9jEzb6LitKgIxGtuaTYkyed75NuamKoDU9sz1ijhKGzHwXpuRMc7p2NR2.webp
 -	Pada contoh pertama, gambar tersebut merupakan perbaikan atau contoh bentuk visualisasi data dalam bentuk diagram batang yang lebih akurat. Sebab pada contoh gambar tersebut, jumlah (sumbu-Y) nya dimulai dari angka 0. Sehingga tidak memberi kesan perbedaan (gap) yang terlalu signifikan, jika dibandingkan dengan contoh pada bagian sebelumnya.
 -	Pada contoh kedua, gambar tersebut merupakan bentuk yang lebih baik dari contoh sebelumnya. Sebab jika kita ingin memvisualisasikan data menggunakan diagram batang dengan banyak kategori, akan lebih baik jika membuatnya menjadi vertikal seperti pada gambar.

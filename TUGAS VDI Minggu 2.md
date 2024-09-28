@@ -5,20 +5,25 @@
 ### NIM		  : 122450109
 ### Kelas		: RA
 
-1.	Parameter Visualisasi Data yang Buruk
-•	Terlalu Banyak Warna atau Elemen Dekoratif
-=> Penggunaan warna yang tidak konsisten atau terlalu banyak warna bisa membuat grafik sulit dibaca. Penggunaan efek 3D yang tidak diperlukan juga bisa mengaburkan perbandingan dan memperburuk interpretasi data.
-•	Label yang Tidak Jelas atau Tidak Ada: 
+## 1.	Parameter Visualisasi Data yang Buruk
+### •	Terlalu Banyak Warna atau Elemen Dekoratif
+### => Penggunaan warna yang tidak konsisten atau terlalu banyak warna bisa membuat grafik sulit dibaca. Penggunaan efek 3D yang tidak diperlukan juga bisa mengaburkan perbandingan dan memperburuk interpretasi data.
+
+## •	Label yang Tidak Jelas atau Tidak Ada: 
 => Tanpa label sumbu yang jelas atau tanpa judul, audiens akan kebingungan memahami apa yang sebenarnya ditunjukkan oleh grafik.
-•	Grafik yang Tidak Sesuai untuk Data: 
+
+## •	Grafik yang Tidak Sesuai untuk Data: 
 => Misalnya, menggunakan diagram lingkaran untuk data yang lebih cocok dengan grafik garis atau batang. Ini bisa menyebabkan kesalahan interpretasi.
-•	Distorsi Skala: 
+
+## •	Distorsi Skala: 
 => Grafik yang memiliki sumbu yang tidak proporsional atau skala yang tidak konsisten membuat perbandingan data tidak akurat dan bisa menyesatkan.
-•	Visualisasi Data yang Buruk:
+
+## •	Visualisasi Data yang Buruk:
 -	Menyulitkan pembaca untuk memahami data.
 -	Terlalu ramai dengan elemen non-esensial.
 -	Distorsi informasi melalui visualisasi yang tidak tepat.
-•	Contoh :
+
+## •	Contoh :
   (https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dc0_NPxkksn79emS50R6vfRs9WUPXBRZ3t_Cbh7i6tCORYQ-uE jnMyiv0omBTr86Ioe4ENM1H86DYxf7N5uu2vFFTxvZh1TgxSufmjdTG8m4lBBMFHVeHHm2grZ8TJp-hGO88JP0s7M.webp)
 (https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/65ccf42ff14d759a662a3dd2_B0bgJV5rclHcVeo3O-sLC2_EWOexj16ZLHGXe6WfNjf3dJfG4b6C5eYRRjA-Bns_Z8KkQHkRDLbhBy9ghGLBTTC3QWONg5tVBCR6fcBCbI6V_dbZObsAXUumcpim3c2FT2yh1yVj.webp)
 -	Pada contoh pertama, menggunakan diagram batang yang terlalu banyak kategori di dalamnya. Hal ini mempersempit ruang baca, sehingga data tidak mudah untuk dilihat.
